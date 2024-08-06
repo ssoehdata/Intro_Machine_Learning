@@ -8,6 +8,7 @@ import pandas as pd
 from IPython.display import display
 
 
+
 x = np.array([[1,2,3], [4,5,6]])
 print("x:\n{}".format(x))
 
