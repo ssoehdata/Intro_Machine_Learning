@@ -9,6 +9,5 @@ Intro_Machine_Learning_w_Python
 #### <ul><li>Ch_5   Model Evaluation and Improvement</ul></li>
 #### <ul><li>Ch_6   Algorithm Chains and Pipelines</ul></li>
 #### <ul><li>Ch_7   Working with Text Data</ul></li>
-#### <ul><li>Ch_8   Wrapping Up/ul></li>
+#### <ul><li>Ch_8   Wrapping Up</ul></li>
 
-S
