@@ -3,7 +3,7 @@ Intro_Machine_Learning_w_Python
 
 ### Table of Contents
 #### <ul><li>Ch_1   Introduction</ul></li>
-#### <ul><li><Ch_2  Supervised Learning/ul></li> 
+#### <ul><li><Ch_2  Supervised Learning</ul></li> 
 #### <ul><li>Ch_3   Unsupervised Learning and Preprocessing</ul></li>
 #### <ul><li>Ch_4   Representing Data and Engineering Features</ul></li>
 #### <ul><li>Ch_5   Model Evaluation and Improvement</ul></li>
