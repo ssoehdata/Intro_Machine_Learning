@@ -1,5 +1,5 @@
 # Intro_Machine_Learning
-Intro_Machine_Learning_w_Python
+Intro_Machine_Learning_w_Python / Working through the text by Andreas C. Müller & Sarah Guido
 
 ### Table of Contents
 #### <ul><li>Ch_1   Introduction</ul></li>
